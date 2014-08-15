@@ -1,0 +1,20 @@
+.navbar-inverse .navbar-brand{
+    color: #eee;
+}
+
+.navbar-header{
+    width: 100%;
+    text-align: center;
+}
+
+
+.navbar-brand{
+    line-height: 50px;
+    float: none;
+    font-weight:bold;
+}
+
+
+.navbar-inverse{
+    background-color: #428bca;
+}
